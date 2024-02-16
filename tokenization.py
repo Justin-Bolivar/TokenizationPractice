@@ -54,7 +54,7 @@ print('------------------------')
 print('\n')
 
 print('----- RegEx -----')
-tokens = trigram(paragraph)
+tokens = regex(paragraph)
 print(tokens)
 print('------------------------')
 print('\n')
